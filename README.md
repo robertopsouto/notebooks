@@ -1,5 +1,4 @@
 # notebooks
-Jupyter notebooks
+Jupyter notebooks para a disciplina de GA-026: Algoritmos I
 
-Fill in the fields to see the markdown badge snippet.
-Fill in the fields to see the rST badge snippet.
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/robertopsouto/notebooks/ga-026)
