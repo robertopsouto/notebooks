@@ -5,4 +5,5 @@ dependencies:
   - xeus-cling=0.8.1
   - xtensor=0.21.2
   - xtensor-blas=0.17.1
+  - matplotlib
   - notebook
