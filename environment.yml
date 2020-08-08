@@ -9,5 +9,6 @@ dependencies:
   - sympy
   - heapdict
   - python-graphviz
+  - octave
   - octave_kernel
   - notebook
