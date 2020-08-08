@@ -7,4 +7,7 @@ dependencies:
   - xtensor-blas=0.17.1
   - matplotlib
   - sympy
+  - heapdict
+  - python-graphviz
+  - octave_kernel
   - notebook
