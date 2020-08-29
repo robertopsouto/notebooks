@@ -9,4 +9,7 @@ dependencies:
   - sympy
   - heapdict
   - python-graphviz
+  - gnuplot
+  - octave
+  - octave_kernel
   - notebook
